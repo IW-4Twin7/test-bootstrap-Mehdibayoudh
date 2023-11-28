@@ -1,0 +1,109 @@
+@import "variables";
+
+body {
+    overflow-x: hidden;
+
+  }
+  
+.navbar-nav {
+        width: $width-nav;
+        height:$height-nav;
+        font-size:$font-size-nav;
+        line-height:$line-height-nav;
+        color:$color-nav;
+        font-weight:$font-weight-nav;
+        font-family:$font-family-nav;
+        text-align:$text-align-nav;
+    
+  
+    
+}
+.logo
+{
+    
+    font-size:$font-size-logo;
+    letter-spacing:$letter-spacing-logo;
+    line-height:$line-height-logo;
+    color:$color-logo;
+    font-weight:$font-weight-logo;
+    font-family:$font-family-logo;
+}
+.title {
+    font-size: $font-size-title;
+    line-height: $line-height-title;
+    color: $color-title;
+    font-weight: $font-weight-title;
+    font-family: $font-family-title;
+
+    
+}
+.button
+{
+    
+    font-size: 13px;
+letter-spacing: 2px;
+line-height: 0px;
+text-transform: uppercase;
+color: #e85f37;
+font-weight: 700;
+font-family: "Open Sans";
+text-align: left;
+width: 124px;
+height: 26px;
+border-radius: 5px;
+background-color: #ffffff;
+border: 1px solid #e85f37;
+}
+.prevbtn{
+    font-size: 13px;
+letter-spacing: 2px;
+line-height: 0px;
+text-transform: uppercase;
+color: #ffffff;
+font-family: "Font Awesome";
+text-align: left;
+width: 135px;
+height: 35px;
+border-radius: 5px;
+background-color: #000000;
+}
+.soustext
+{
+    margin-bottom: -90px;
+    width: 662px;
+height: 199px;
+font-size: 15px;
+line-height: 24px;
+color: #535353;
+font-weight: 400;
+font-family: "Open Sans";
+}
+.secontitle
+{
+    font-size: 22px;
+line-height: 0px;
+color: #000000;
+font-weight: 600;
+font-family: "Lato";
+text-align: left;
+}
+.tags
+{
+    text-decoration:none;
+    font-size: 12px;
+line-height: 0px;
+color: #535353;
+font-weight: 700;
+font-family: "Open Sans";
+text-align: left;
+}
+.texo
+{
+    width: 373px;
+height: 199px;
+font-size: 15px;
+line-height: 24px;
+color: #535353;
+font-weight: 400;
+font-family: "Open Sans";
+}

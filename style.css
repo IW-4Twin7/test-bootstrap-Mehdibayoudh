@@ -1,0 +1,106 @@
+/*titter*/
+/*logo*/
+/*navbar*/
+body {
+  overflow-x: hidden;
+}
+
+.navbar-nav {
+  width: 373px;
+  height: 14px;
+  font-size: 15px;
+  line-height: 0px;
+  color: #ff6c40;
+  font-weight: 700;
+  font-family: "Lato";
+  text-align: left;
+}
+
+.logo {
+  font-size: 27px;
+  letter-spacing: -2px;
+  line-height: 0px;
+  color: #000000;
+  font-weight: 700;
+  font-family: "Open Sans";
+}
+
+.title {
+  font-size: 22px;
+  line-height: 0px;
+  color: #000000;
+  font-weight: 600;
+  font-family: "Lato";
+}
+
+.button {
+  font-size: 13px;
+  letter-spacing: 2px;
+  line-height: 0px;
+  text-transform: uppercase;
+  color: #e85f37;
+  font-weight: 700;
+  font-family: "Open Sans";
+  text-align: left;
+  width: 124px;
+  height: 26px;
+  border-radius: 5px;
+  background-color: #ffffff;
+  border: 1px solid #e85f37;
+}
+
+.prevbtn {
+  font-size: 13px;
+  letter-spacing: 2px;
+  line-height: 0px;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: "Font Awesome";
+  text-align: left;
+  width: 135px;
+  height: 35px;
+  border-radius: 5px;
+  background-color: #000000;
+}
+
+.soustext {
+  margin-bottom: -90px;
+  width: 662px;
+  height: 199px;
+  font-size: 15px;
+  line-height: 24px;
+  color: #535353;
+  font-weight: 400;
+  font-family: "Open Sans";
+}
+
+.secontitle {
+  font-size: 22px;
+  line-height: 0px;
+  color: #000000;
+  font-weight: 600;
+  font-family: "Lato";
+  text-align: left;
+}
+
+.tags {
+  text-decoration: none;
+  font-size: 12px;
+  line-height: 0px;
+  color: #535353;
+  font-weight: 700;
+  font-family: "Open Sans";
+  text-align: left;
+}
+
+.texo {
+  width: 373px;
+  height: 199px;
+  font-size: 15px;
+  line-height: 24px;
+  color: #535353;
+  font-weight: 400;
+  font-family: "Open Sans";
+}
+
+/*# sourceMappingURL=style.css.map */
